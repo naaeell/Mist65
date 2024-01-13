@@ -1,5 +1,5 @@
 
-# mist65 ✨
+# mist65 ⌨✨
 
 <img src='https://github.com/naaeell/mist65/blob/main/mist65/pictures/keyboard.png'>
 
@@ -13,7 +13,7 @@ For those interested, the mist65 PCB is available for purchase [here](https://gi
 
 go to the [wiki](https://github.com/naaeell/mist65/wiki) page for how to make it, function, and materials needed.
 
-## Features
+## Features 🔮
 
 - No RGB (yes I called it a feature)
 - Drag and drop flash firmware
