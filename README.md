@@ -1,5 +1,5 @@
 
-# mist65
+# mist65 ✨
 
 <img src='https://github.com/naaeell/mist65/blob/main/mist65/pictures/keyboard.png'>
 
