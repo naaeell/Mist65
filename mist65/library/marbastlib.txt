@@ -1,0 +1,2 @@
+copy the JSON and paste it to kicad to be able using pcm marbastlib, details on the repo.
+https://github.com/ebastler/marbastlib
