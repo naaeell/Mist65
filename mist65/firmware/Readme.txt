@@ -5,5 +5,5 @@ To use via (unfortunately it hasn't been merged into the branch yet), we need to
 Once active, open the brush icon next to the gear. Click load on the load draft definition menu and enter the via.json file in the firmware folder.
 Go back to the configuration menu and click on device authorization, your keyboard will appear and is ready to use.
 
-(mist65_via for via support)
-(mist65_default for default keymap and not support via)
+(mist65_via.uf2 for via support)
+(mist65_default.uf2 for default keymap and not support via)
