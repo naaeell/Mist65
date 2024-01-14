@@ -7,7 +7,7 @@ Part list
 | `1N4148`      | `66`         | DO-35 (1N4148 or similar).  |
 | `RP2040 Zero` | `1`          | RP2040 Zero (You can use all models, but first pay attention to the pinout). |
 | `Kailh hotswap socket (optional)` | `66` | if you want hotswap features and south facing switches. |
-| `Mist65 PCB`  | `1`          | Mist65 PCB is available for purchase [here](https://www.tokopedia.com/applemontea).|
+| `Mist65 PCB`  | `1`          | Mist65 PCB is available for purchase [here](https://tokopedia.link/6WUgB6gHmGb).|
 
 Case part list
 
