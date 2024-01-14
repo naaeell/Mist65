@@ -18,7 +18,7 @@ For more details about materials, instructions, and other information, please vi
 - No RGB: Clean and distraction-free experience without RGB lighting.
 - Drag and Drop Flashing: Streamlined firmware updates with easy drag-and-drop functionality.
 - Staggered Design: Comfortable and ergonomic typing experience with a staggered key layout.
-- VIA Support: Extensive keymap customization through VIA support. (Manual upload required until VIA branch merge)
+- VIA Support: Extensive keymap customization through VIA support. (Keyboard definition required until VIA branch merge)
 - QMK Firmware: Reliable and customizable keyboard experience powered by QMK firmware.
 - Cost-Effective Components: Budget-friendly design using readily available components.
 - Compact 65% Layout: Perfect balance between size and functionality with arrow keys for convenient navigation.
