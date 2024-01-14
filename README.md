@@ -15,22 +15,13 @@ go to the [wiki](https://github.com/naaeell/mist65/wiki) page for how to make it
 
 ## Features 🔮
 
-- No RGB: Embracing simplicity, Mist65 deliberately excludes RGB lighting for a clean and distraction-free experience.
-
-- Drag and Drop Flashing: Easily update firmware by dragging and dropping, streamlining the process for users.
-
-- Staggered Design: Enjoy a comfortable and ergonomic typing experience with Mist65's staggered key layout.
-
-- VIA Support: Unlock extensive keymap customization with VIA support. Note: For now, manually upload the keyboard definition as it awaits merging into the VIA branch.
-
-- QMK Firmware: Powering Mist65 is the versatile QMK firmware, providing a reliable and customizable keyboard experience.
-
-- Cost-Effective Components: Designed with affordability in mind, Mist65 utilizes readily available and budget-friendly components.
-
-- Compact 65% Layout: Strike the perfect balance between size and functionality, incorporating arrow keys for convenient navigation.
-
-- RP2040 Zero Controller: Opting for the cost-effective RP2040 Zero controller, Mist65 maintains performance while being readily available in the market.
-
-- Community-Friendly: Join a vibrant community of keyboard enthusiasts, sharing experiences, modifications, and firmware tweaks for Mist65.
-
-- Open-Source Design: Embrace creativity and adaptability with Mist65's open-source design, allowing users to contribute, modify, and personalize to their heart's content.
+- No RGB: Clean and distraction-free experience without RGB lighting.
+- Drag and Drop Flashing: Streamlined firmware updates with easy drag-and-drop functionality.
+- Staggered Design: Comfortable and ergonomic typing experience with a staggered key layout.
+- VIA Support: Extensive keymap customization through VIA support. (Manual upload required until VIA branch merge)
+- QMK Firmware: Reliable and customizable keyboard experience powered by QMK firmware.
+- Cost-Effective Components: Budget-friendly design using readily available components.
+- Compact 65% Layout: Perfect balance between size and functionality with arrow keys for convenient navigation.
+- RP2040 Zero Controller: Cost-effective and performance-maintaining controller readily available in the market.
+- Community-Friendly: Vibrant community of keyboard enthusiasts for sharing experiences and modifications.
+- Open-Source Design: Creative and adaptable with an open-source design for user contributions and personalization.
