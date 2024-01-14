@@ -38,9 +38,9 @@ Firstly, prepare the necessary tools and materials. I will provide you with some
 
 The use of nail clippers instead of cutting pliers is for precision, allowing you to trim component legs more neatly. Before soldering, apply an adequate amount of flux to the PCB. Applying too much flux can complicate cleaning later. Once everything is ready, test-fit the components in place, ensuring they match the silk screen markings on the PCB. Trim any excess component legs promptly; although it may take time, patience is crucial for satisfactory results.
 
-Afterward, solder the components one by one, using tweezers to position them accurately. If a component is tilted, you can correct it with tweezers, but be cautious as this process involves melting the solder and adjusting the component's position. For the microcontroller, there is a ">" sign indicating pin 0 on the rp2040 zero; refer to the picture [below](https://github.com/naaeell/Mist65/blob/main/mist65/pictures/20240113_094051.jpg) for the microcontroller's position. Before soldering, verify that the component placement is correct to achieve neat soldering results.
+Afterward, solder the components one by one, using tweezers to position them accurately. If a component is tilted, you can correct it with tweezers, but be cautious as this process involves melting the tin and adjusting the component's position. For the microcontroller, there is a ">" sign indicating pin 0 on the rp2040 zero; refer to the picture [below](https://github.com/naaeell/Mist65/blob/main/mist65/pictures/20240113_094051.jpg) for the microcontroller's position. Before soldering, verify that the component placement is correct to achieve neat soldering results.
 
-Begin soldering slowly, ensuring not to melt too much solder; excessive solder can result in poor solder joints. Once all components are soldered, clean the PCB with isopropyl alcohol or contact cleaner.
+Begin soldering slowly, ensuring not to melt too much tin; excessive tin can result in poor solder joints. Once all components are soldered, clean the PCB with isopropyl alcohol or contact cleaner.
 
 ## Flashing Firmware
 
