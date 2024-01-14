@@ -1,9 +1,15 @@
-To flash, press and hold the boot button on the RPI2040 Zero while plugging in the USB until it is detected on the computer as a new drive.
-then drag and drop the file with the .uf2 extension onto the drive, or you can also copy and paste it into it.
-Wait a few moments until the keyboard is detected.
-To use via (unfortunately it hasn't been merged into the branch yet), we need to go to the url https://usevia.app/ then go to the gear icon and turn on the show design tab option.
-Once active, open the brush icon next to the gear. Click load on the load draft definition menu and enter the via.json file in the firmware folder.
-Go back to the configuration menu and click on device authorization, your keyboard will appear and is ready to use.
+## Flashing Firmware
 
-(mist65_via.uf2 for via support)
-(mist65_default.uf2 for default keymap and not support via)
+- Flash the RPI2040 Zero by pressing and holding the boot button while plugging in the USB until it's detected on the computer as a new drive.
+
+- Drag and drop or copy and paste the file with the .uf2 extension onto the drive. Wait until the keyboard is detected.
+
+#### Unfortunately, the VIA support hasn't been merged into the branch yet. However, to use it, follow these additional steps:
+
+- Visit https://usevia.app/ and navigate to the gear icon, then enable the "Show Design Tab" option.
+- Once active, open the brush icon next to the gear. Click "Load" on the "Load Draft Definition" menu and input the via.json file located in the firmware folder.
+- Return to the configuration menu, click on "Device Authorization," and your keyboard will appear, ready to use.
+
+Choose "Mist65_via" for VIA support or "Mist65_default" for the default keymap without VIA support.
+
+Create a new keymap tutorial soon!
