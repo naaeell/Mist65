@@ -8,7 +8,7 @@ Introducing Mist65, a 65% custom keyboard inspired by [bakeneko65](https://githu
 
 Designed with a 65% layout, Mist65 strikes a balance between compactness and functionality, housing arrow keys for enhanced usability. VIA support ensures seamless keymap customization to tailor the keyboard to your preferences.
 
-For those interested, the Mist65 PCB is available for purchase [here](https://www.tokopedia.com/applemontea)(indonesian domestic). If considering group buy or commercial use, kindly adhere to the specified terms.
+For those interested, the Mist65 PCB is available for purchase [here](https://www.tokopedia.com/applemontea) (indonesian domestic). If considering group buy or commercial use, kindly adhere to the specified terms.
 
 
 For more details about materials, instructions, and other information, please visit this [page](https://github.com/naaeell/Mist65/blob/main/mist65/README.md)
