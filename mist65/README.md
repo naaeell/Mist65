@@ -41,3 +41,5 @@ The use of nail clippers instead of cutting pliers is for precision, allowing yo
 Afterward, solder the components one by one, using tweezers to position them accurately. If a component is tilted, you can correct it with tweezers, but be cautious as this process involves melting the solder and adjusting the component's position. For the microcontroller, there is a ">" sign indicating pin 0 on the rp2040 zero; refer to the picture [below](https://github.com/naaeell/Mist65/blob/main/mist65/pictures/20240113_094051.jpg) for the microcontroller's position. Before soldering, verify that the component placement is correct to achieve neat soldering results.
 
 Begin soldering slowly, ensuring not to melt too much solder; excessive solder can result in poor solder joints. Once all components are soldered, clean the PCB with isopropyl alcohol or contact cleaner.
+
+Visit this [page](https://github.com/naaeell/Mist65/tree/main/mist65/pictures) to view fully assembled builds and component placements.
