@@ -11,7 +11,7 @@ Designed with a 65% layout, Mist65 strikes a balance between compactness and fun
 For those interested, the Mist65 PCB is available for purchase [here (indonesian domestic)](https://www.tokopedia.com/applemontea). If considering group buy or commercial use, kindly adhere to the specified terms.
 
 
-For more details about materials, instructions, and other information, please visit this [page](https://www.tokopedia.com/applemontea)
+For more details about materials, instructions, and other information, please visit this [page](https://github.com/naaeell/Mist65/blob/main/mist65/README.md)
 
 ## Features 🔮
 
