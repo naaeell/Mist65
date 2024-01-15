@@ -54,6 +54,6 @@ Begin soldering slowly, ensuring not to melt too much tin; excessive tin can res
 - Once active, open the brush icon next to the gear. Click "Load" on the "Load Draft Definition" menu and input the via.json file located in the firmware folder.
 - Return to the configuration menu, click on "Device Authorization," and your keyboard will appear, ready to use.
 
-Choose "Mist65_via" for VIA support or "Mist65_default" for the default keymap without VIA support.
+Choose "Mist65_via.uf2" for VIA support or "Mist65_default.uf2" for the default keymap without VIA support.
 
 Create a new keymap tutorial soon!
